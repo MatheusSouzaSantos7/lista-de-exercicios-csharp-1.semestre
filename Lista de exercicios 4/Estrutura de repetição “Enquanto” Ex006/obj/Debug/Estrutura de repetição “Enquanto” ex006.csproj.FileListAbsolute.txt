@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\bin\Debug\Estrutura de repetição “Enquanto” ex006.exe.config
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\bin\Debug\Estrutura de repetição “Enquanto” ex006.exe
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\bin\Debug\Estrutura de repetição “Enquanto” ex006.pdb
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\obj\Debug\Estrutura de repetição “Enquanto” ex006.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\obj\Debug\Estrutura de repetição “Enquanto” ex006.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\obj\Debug\Estrutura de repetição “Enquanto” ex006.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\obj\Debug\Estrutura de repetição “Enquanto” ex006.exe
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex006\obj\Debug\Estrutura de repetição “Enquanto” ex006.pdb

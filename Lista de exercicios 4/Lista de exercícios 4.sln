@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex002", "Estrutura de repetição “Enquanto” ex002\Estrutura de repetição “Enquanto” ex002.csproj", "{7AF968AA-1D6F-47E1-A51B-950C5B47567E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex003", "Estrutura de repetição “Enquanto” ex003\Estrutura de repetição “Enquanto” ex003.csproj", "{F4CF2C99-9614-4F59-9322-C429E99025D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex004", "Estrutura de repetição “Enquanto” ex004\Estrutura de repetição “Enquanto” ex004.csproj", "{6919FCDE-7477-41E3-922C-050FFFDB14B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex005", "Estrutura de repetição “Enquanto” ex005\Estrutura de repetição “Enquanto” ex005.csproj", "{886201F5-E861-4FF7-B65A-03FE49F8127E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex006", "Estrutura de repetição “Enquanto” ex006\Estrutura de repetição “Enquanto” ex006.csproj", "{B2AD8665-6C9D-4E81-B815-2EDF67132DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex007", "Estrutura de repetição “Enquanto” ex007\Estrutura de repetição “Enquanto” ex007.csproj", "{83CF86AC-76B0-42CF-8711-574080B6F208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex016", "Estrutura de repetição “Enquanto” ex016\Estrutura de repetição “Enquanto” ex016.csproj", "{BE466039-2EE2-4129-92EC-41E4D3B9198C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex017", "Estrutura de repetição “Enquanto” ex017\Estrutura de repetição “Enquanto” ex017.csproj", "{D97F0759-087B-45FE-93F8-87FB9D7227FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex018", "Estrutura de repetição “Enquanto” ex018\Estrutura de repetição “Enquanto” ex018.csproj", "{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex especial", "Estrutura de repetição “Enquanto” ex especial\Estrutura de repetição “Enquanto” ex especial.csproj", "{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF968AA-1D6F-47E1-A51B-950C5B47567E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF968AA-1D6F-47E1-A51B-950C5B47567E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF968AA-1D6F-47E1-A51B-950C5B47567E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF968AA-1D6F-47E1-A51B-950C5B47567E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CF2C99-9614-4F59-9322-C429E99025D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CF2C99-9614-4F59-9322-C429E99025D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CF2C99-9614-4F59-9322-C429E99025D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CF2C99-9614-4F59-9322-C429E99025D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6919FCDE-7477-41E3-922C-050FFFDB14B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6919FCDE-7477-41E3-922C-050FFFDB14B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6919FCDE-7477-41E3-922C-050FFFDB14B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6919FCDE-7477-41E3-922C-050FFFDB14B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886201F5-E861-4FF7-B65A-03FE49F8127E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886201F5-E861-4FF7-B65A-03FE49F8127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886201F5-E861-4FF7-B65A-03FE49F8127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886201F5-E861-4FF7-B65A-03FE49F8127E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AD8665-6C9D-4E81-B815-2EDF67132DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AD8665-6C9D-4E81-B815-2EDF67132DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AD8665-6C9D-4E81-B815-2EDF67132DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AD8665-6C9D-4E81-B815-2EDF67132DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CF86AC-76B0-42CF-8711-574080B6F208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CF86AC-76B0-42CF-8711-574080B6F208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CF86AC-76B0-42CF-8711-574080B6F208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CF86AC-76B0-42CF-8711-574080B6F208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE466039-2EE2-4129-92EC-41E4D3B9198C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE466039-2EE2-4129-92EC-41E4D3B9198C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE466039-2EE2-4129-92EC-41E4D3B9198C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE466039-2EE2-4129-92EC-41E4D3B9198C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A732A6-0596-4724-A2AF-D398DEF5C334}
+	EndGlobalSection
+EndGlobal

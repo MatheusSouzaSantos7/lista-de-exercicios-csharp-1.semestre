@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\bin\Debug\Ex008.exe.config
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\bin\Debug\Ex008.exe
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\bin\Debug\Ex008.pdb
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\obj\Debug\Ex008.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\obj\Debug\Ex008.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\obj\Debug\Ex008.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\obj\Debug\Ex008.exe
+C:\Users\Usuario\source\repos\Lista de exercícios\Ex008\obj\Debug\Ex008.pdb

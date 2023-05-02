@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\bin\Debug\Estruturas Condicionais Encadeadas.exe.config
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\bin\Debug\Estruturas Condicionais Encadeadas.exe
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\bin\Debug\Estruturas Condicionais Encadeadas.pdb
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\obj\Debug\Estruturas Condicionais Encadeadas Ex009.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\obj\Debug\Estruturas Condicionais Encadeadas Ex009.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\obj\Debug\Estruturas Condicionais Encadeadas Ex009.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\obj\Debug\Estruturas Condicionais Encadeadas.exe
+C:\Users\Usuario\source\repos\Lista de exercícios\Estruturas Condicionais Encadeadas\obj\Debug\Estruturas Condicionais Encadeadas.pdb

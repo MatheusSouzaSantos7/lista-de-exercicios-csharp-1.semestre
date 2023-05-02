@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\bin\Debug\Estrutura de repetição “Enquanto” ex007.exe.config
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\bin\Debug\Estrutura de repetição “Enquanto” ex007.exe
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\bin\Debug\Estrutura de repetição “Enquanto” ex007.pdb
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\obj\Debug\Estrutura de repetição “Enquanto” ex007.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\obj\Debug\Estrutura de repetição “Enquanto” ex007.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\obj\Debug\Estrutura de repetição “Enquanto” ex007.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\obj\Debug\Estrutura de repetição “Enquanto” ex007.exe
+C:\Users\Usuario\source\repos\Lista de exercícios 4\Estrutura de repetição “Enquanto” ex007\obj\Debug\Estrutura de repetição “Enquanto” ex007.pdb

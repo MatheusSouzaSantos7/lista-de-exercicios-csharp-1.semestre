@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\bin\Debug\ex001.exe.config
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\bin\Debug\ex001.exe
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\bin\Debug\ex001.pdb
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\obj\Debug\Estrutura de repetição “Enquanto” ex001.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\obj\Debug\Estrutura de repetição “Enquanto” ex001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\obj\Debug\Estrutura de repetição “Enquanto” ex001.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\obj\Debug\ex001.exe
+C:\Users\Usuario\source\repos\Lista de exercícios 4\ex001\obj\Debug\ex001.pdb
