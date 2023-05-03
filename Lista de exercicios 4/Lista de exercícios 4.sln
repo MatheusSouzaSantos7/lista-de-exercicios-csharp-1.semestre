@@ -19,9 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex017", "Estrutura de repetição “Enquanto” ex017\Estrutura de repetição “Enquanto” ex017.csproj", "{D97F0759-087B-45FE-93F8-87FB9D7227FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex018", "Estrutura de repetição “Enquanto” ex018\Estrutura de repetição “Enquanto” ex018.csproj", "{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” ex especial", "Estrutura de repetição “Enquanto” ex especial\Estrutura de repetição “Enquanto” ex especial.csproj", "{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” Ex022", "Estrutura de repetição “Enquanto” Ex022\Estrutura de repetição “Enquanto” Ex022.csproj", "{19E0C436-B3A4-4CC6-A8DE-D858BABB5D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura de repetição “Enquanto” Ex023", "Estrutura de repetição “Enquanto” Ex023\Estrutura de repetição “Enquanto” Ex023.csproj", "{E80B2526-981B-4485-B91C-28210DFA361F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,14 +63,18 @@ Global
 		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D97F0759-087B-45FE-93F8-87FB9D7227FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F5DD9D5-4FB7-4CFD-A069-014F288739CA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6E9435-C7B8-4C1F-AF4F-9BE45A4C93D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E0C436-B3A4-4CC6-A8DE-D858BABB5D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E0C436-B3A4-4CC6-A8DE-D858BABB5D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E0C436-B3A4-4CC6-A8DE-D858BABB5D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E0C436-B3A4-4CC6-A8DE-D858BABB5D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80B2526-981B-4485-B91C-28210DFA361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80B2526-981B-4485-B91C-28210DFA361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80B2526-981B-4485-B91C-28210DFA361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80B2526-981B-4485-B91C-28210DFA361F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

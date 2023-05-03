@@ -1,0 +1,8 @@
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\bin\Debug\Estrutura de repetição “Enquanto” Ex022.exe.config
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\bin\Debug\Estrutura de repetição “Enquanto” Ex022.exe
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\bin\Debug\Estrutura de repetição “Enquanto” Ex022.pdb
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\obj\Debug\Estrutura de repetição “Enquanto” Ex022.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\obj\Debug\Estrutura de repetição “Enquanto” Ex022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\obj\Debug\Estrutura de repetição “Enquanto” Ex022.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\obj\Debug\Estrutura de repetição “Enquanto” Ex022.exe
+C:\Users\Usuario\Source\Repos\ex-programacao-estruturada\Lista de exercicios 4\Estrutura de repetição “Enquanto” Ex022\obj\Debug\Estrutura de repetição “Enquanto” Ex022.pdb
