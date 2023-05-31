@@ -1,0 +1,8 @@
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\bin\Debug\Operações com vetores ex009.exe.config
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\bin\Debug\Operações com vetores ex009.exe
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\bin\Debug\Operações com vetores ex009.pdb
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\obj\Debug\Operações com vetores ex009.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\obj\Debug\Operações com vetores ex009.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\obj\Debug\Operações com vetores ex009.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\obj\Debug\Operações com vetores ex009.exe
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex009\obj\Debug\Operações com vetores ex009.pdb

@@ -1,0 +1,3 @@
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex008\obj\Debug\Operações com vetores ex008.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex008\obj\Debug\Operações com vetores ex008.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\MatheusSouzaSantos7\ex-programacao-estruturada\Operações com vetores ex008\obj\Debug\Operações com vetores ex008.csproj.CoreCompileInputs.cache
